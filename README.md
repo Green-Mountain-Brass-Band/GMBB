@@ -7,6 +7,7 @@ The site can be accessed and viewed [here](https://green-mountain-brass-band.git
 The current focus of the project is to get the main components of the site completed.
 - Homepage
 - About Page
+- CSS Styling
 
 Header and footer elements might not be added, depending on the purpose they would serve given the size of the site.
 
